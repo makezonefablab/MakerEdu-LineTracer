@@ -1,0 +1,26 @@
+###########################################
+# Syntax Coloring Map For makeEdu_lib
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+makerEdu_lib	KEYWORD1	makerEdu_lib
+stacker_line	KEYWORD1	stacker_line
+###########################################
+# Methods and Functions
+###########################################
+straightDelay			KEYWORD2
+lsensorValue			KEYWORD2
+rsensorValue			KEYWORD2
+readyCar				KEYWORD2
+sensorRead				KEYWORD2
+sensorTest				KEYWORD2
+onego					KEYWORD2
+left					KEYWORD2
+right					KEYWORD2
+lineTrace				KEYWORD2
+delayLine				KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
